@@ -1,0 +1,11 @@
+{
+  "data": {
+    "id": "1",
+    "type": "employee",
+    "attributes": {
+      "name": "Jose Reyes IV",
+      "about_me": "I started my career in the U.S Navy where I found my first passion in medicine as a medical assistant.  The passion for medicine came from the urge to help others, and enjoyment of always learning new things. Working in the E.R as shift team leader with others pushed me to communicate effectively between the doctors and my team members which gave me the ability to build strong relationships with my superiors and my team . After my contract in the Navy ended I wanted a career where I could reach and help others without them having to come to me. Since working in medicine involves working as a team I gravitated towards a career that would still allow me to do that.  My ambition to pursue software development came from unlimited creativity and the possibilities to reach anyone from around the world. My vision is to show people that technology can advance far past the convenience of being able to connect to others quickly and it could be a tool to truly provide assistance that could change generations to come.",
+      "resume": "Upload Resume"
+    }
+  }
+}
